@@ -1,0 +1,2 @@
+/home/jsoh/hamradio/server.py:5: DeprecationWarning: 'cgi' is deprecated and slated for removal in Python 3.13
+  import cgi
